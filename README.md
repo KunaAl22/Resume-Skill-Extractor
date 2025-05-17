@@ -2,7 +2,7 @@
 
 It is built on a  processes resumes through multiple stages, each handling specific extraction and analysis tasks.
 The system leverages a combination of NLP techniques, rule-based extraction, and machine learning models to accurately parse and interpret resume data.
-##Working Pipleine
+##Working Pipleline:
 ![Resume Parsing Pipeline Overview](https://github.com/user-attachments/assets/1729f552-5995-4b17-8a83-14abd2762800)
 
 This project is containerized using Docker and can be run easily with Docker Compose. Below are the project-specific instructions and requirements for running the application in a Docker environment.
