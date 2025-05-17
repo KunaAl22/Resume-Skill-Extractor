@@ -1,0 +1,58 @@
+# Python cache and bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+
+# IDE/editor settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build and distribution outputs
+dist/
+build/
+out/
+
+# Test and debug artifacts
+test/
+tests/
+debug/
+*.log
+
+# Version control
+.git/
+.gitignore
+.svn/
+.hg/
+
+# Environment and secrets
+.env*
+*.env
+*.pem
+*.key
+*.crt
+config.local.*
+*.local.yml
+
+# Documentation and markdown
+README*
+*.md
+docs/
+
+# Docker and compose files
+Dockerfile*
+docker-compose*
+
+# Temporary and local files
+tmp/
+temp/
+*.tmp
+.local/
+local/
+
+# Project-specific: ignore the dockerignore itself (not needed in build context)
+.dockerignore

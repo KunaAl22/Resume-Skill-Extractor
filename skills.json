@@ -1,0 +1,75 @@
+{
+    "technical_skills": [
+        "Python", "Java", "JavaScript", "C++", "C#", "Ruby", "PHP", "Swift", "Go", "Rust",
+        "TypeScript", "Kotlin", "Scala", "Perl", "R", "MATLAB",
+        "HTML", "CSS", "React", "Angular", "Vue.js", "Node.js", "Express.js", "Django", "Flask",
+        "Next.js", "Nuxt.js", "Gatsby", "Svelte", "AngularJS", "Ember.js",
+        "SQL", "MySQL", "PostgreSQL", "MongoDB", "Redis", "Cassandra", "Oracle", "SQL Server",
+        "SQLite", "Neo4j", "Elasticsearch", "CouchDB",
+        "Spring", "Django", "Flask", "Express", "React", "Angular", "Vue.js", "Laravel",
+        "Ruby on Rails", "Django REST Framework", "FastAPI", "ASP.NET",
+        "AWS", "Azure", "Google Cloud", "Heroku", "DigitalOcean", "IBM Cloud", "Oracle Cloud",
+        "Salesforce", "SAP Cloud Platform",
+        "Docker", "Kubernetes", "Jenkins", "Git", "GitHub", "GitLab", "Bitbucket",
+        "Ansible", "Terraform", "Puppet", "Chef", "AWS Lambda", "Azure Functions",
+        "TensorFlow", "PyTorch", "Scikit-learn", "Keras", "Pandas", "NumPy", "SciPy",
+        "OpenCV", "TensorFlow.js", "TensorFlow Lite", "ONNX", "MLflow",
+        "neural networks", "deep learning", "reinforcement learning", "nlp", "cv",
+        "spacy", "nltk", "transformers", "bert", "gpt",
+        "opencv", "tensorflow.js", "pytorch3d", "dlib",
+        "pytest", "junit", "mocha", "chai", "jest",
+        "selenium", "cypress", "karma", "testcafe",
+        "appium", "cucumber", "bdd", "tdd",
+        "jmeter", "k6", "loadrunner",
+        "git", "svn", "hg",
+        "vscode", "pycharm", "intellij", "eclipse", "vim", "emacs",
+        "sonarqube", "black", "flake8", "eslint", "prettier",
+        "markdown", "rst", "latex", "doxygen", "javadoc"
+    ],
+    "soft_skills": [
+        "Public Speaking", "Presentation Skills", "Active Listening", "Writing Skills",
+        "Technical Writing", "Business Writing", "Report Writing",
+        "Team Leadership", "Project Management", "Decision Making",
+        "Conflict Resolution", "Mentoring", "Coaching",
+        "Critical Thinking", "Analytical Skills", "Problem Analysis",
+        "Troubleshooting", "Root Cause Analysis",
+        "Teamwork", "Collaboration", "Customer Service",
+        "Stakeholder Management", "Negotiation Skills"
+    ],
+    "business_skills": [
+        "Project Management", "Team Management", "Resource Management",
+        "Budget Management", "Time Management",
+        "Financial Analysis", "Budget Planning", "Cost Management",
+        "Investment Analysis", "Risk Management",
+        "Digital Marketing", "SEO", "Content Marketing",
+        "Social Media Marketing", "Market Research",
+        "Sales Strategy", "Client Acquisition", "Sales Forecasting",
+        "Negotiation", "Customer Relationship Management"
+    ],
+    "industry_specific_skills": [
+        "Clinical Research", "Patient Care", "Medical Coding",
+        "Health Informatics", "Medical Billing",
+        "Financial Modeling", "Risk Assessment", "Portfolio Management",
+        "Investment Banking", "Financial Planning",
+        "Curriculum Development", "Teaching", "Student Assessment",
+        "Educational Technology", "Classroom Management",
+        "Production Planning", "Quality Control", "Supply Chain Management",
+        "Process Improvement", "Lean Manufacturing"
+    ],
+    "professional_skills": [
+        "Data Analysis", "Statistical Analysis", "Research Methods",
+        "Literature Review", "Qualitative Research",
+        "Technical Writing", "Business Writing", "Creative Writing",
+        "Copywriting", "Grant Writing",
+        "UI/UX Design", "Graphic Design", "Web Design",
+        "Product Design", "Visual Design",
+        "Customer Support", "Help Desk", "Technical Support",
+        "Customer Relationship Management", "Service Excellence"
+    ],
+    "testing": [
+        "pytest", "junit", "mocha", "chai", "jest",
+        "selenium", "cypress", "karma", "testcafe",
+        "appium", "cucumber", "bdd", "tdd",
+        "jmeter", "k6", "loadrunner"
+    ]
+}
